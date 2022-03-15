@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   font-family: sans-serif;
+}
+.header{
+    height: 600px;
+    width: 100%;
+    
+
+}
+
+
+.txt{
+    background-image: url(./images/top-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    float: left;
+    padding-left: 200px;
+    padding-top: 100px;
+
+}
+.header h3{
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+    
+}
+.header h1{
+    font-size: 2rem;
+    color:orange;
+    padding-bottom: 30px;
+    font-size: 2.5rem;
+}
+.header p{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 1.2rem;
+}
+
+ .pic img{
+    height: 500px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 20px;
+    padding-right: 80px;
+    width: 50%;
+    display: inline;
+    float: left;
+
+}
+.btn{
+    background-image: linear-gradient(45deg,blue,navy);
+    color: #fff;
+    padding: 15px;
+    font-size: 1rem;
+    border-radius: 30px;
+    border: none;
+   margin-top: 30px;
+
+}
+
+.Bio{
+    height: 600px;
+    width: 100%;
+    
+
+}
+
+
+.txt-bio{
+    background-image: url(./images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    float: left;
+    display: inline;
+    padding-right: 200px;
+    padding-top: 100px;
+
+}
+.txt-bio h1{
+
+    color:green;
+    padding-bottom: 30px;
+    font-size: 2.5rem;
+}
+.Bio p{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 1.2rem;
+}
+.Bio .btn{
+    background-image: linear-gradient(45deg,orange,yellowgreen);
+    color: #fff;
+    padding: 15px;
+    font-size: 1rem;
+    border-radius: 30px;
+    border: none;
+   margin-top: 30px;
+
+}
+.exp{
+
+    height: 600px;
+    width: 100%;
+
+}
+.exp p{
+    padding: 0px 10px;
+}
+.exp .xp{
+    padding: 50px;
+    width: 40%;
+    float: left;
+    display: inline;
+    box-shadow: 10px 10px 40px gray;
+   
+
+}
+#xp1{
+    margin-left: 5%;
+    border-left: 8px solid;
+    border-image: linear-gradient(180deg,lightSalmon,tomato);
+    border-image-slice: 1;
+    
+}
+
+#xp2{
+    margin-left: 5%;
+    border-left: 8px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+.exp h1{
+    font-size: 2rem;
+    color:black;
+    padding-bottom: 30px;
+    font-size: 2.5rem;
+}
+.exp h5{
+    padding-bottom: 30px;
+    font-size: 2.5rem;
+}
+.sec{
+    box-shadow: 5px 5px 20px gray;
+}
+.sec h1{
+    padding: 50px;
+    border-bottom: gold;
+    
+}
+.sec img{
+    height: 150px;
+    width: 150px;
+    margin-left: 100px;
+    border-radius: 50%;
+   margin-bottom: 100px;
+   
+
+}
+
+
